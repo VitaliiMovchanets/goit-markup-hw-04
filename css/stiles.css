@@ -47,12 +47,13 @@ display: block;
 .current::after {
     content: "";
     position: absolute;
+    left: 0;
+    bottom: -1;
     border-radius: 2px;
     background: #404bbf;
     height: 4px;
     width: 100%;
-    left: 0;
-    bottom: -1;
+
 }
 
 .nav-link:hover,
