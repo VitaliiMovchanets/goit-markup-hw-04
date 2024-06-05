@@ -40,6 +40,21 @@ padding: 24px 0;
 display: block;
 }
 
+.current {
+    position: relative;
+}
+
+.current::after {
+    content: "";
+    position: absolute;
+    border-radius: 2px;
+    background: #404bbf;
+    height: 4px;
+    width: 100%;
+    left: 0;
+    bottom: -1;
+}
+
 .nav-link:hover,
 .nav-link:focus {
     color: #404bbf;
