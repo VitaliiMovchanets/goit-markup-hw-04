@@ -248,6 +248,12 @@ margin-right: 0;
     margin-right: 0;
 }
 
+.our-team-social {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
 .our-portfolio { 
     letter-spacing: 0.02em;
     text-transform: capitalize;
