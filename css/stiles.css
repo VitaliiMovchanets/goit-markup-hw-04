@@ -311,7 +311,7 @@ background-color: #404bbf;
 .images-container {
     position: relative;
     overflow: hidden;
-    
+
 }
 
 .our-portfolio-title {
@@ -340,6 +340,14 @@ background-color: #404bbf;
     color: #434455;
     margin-left: 0;
     margin-right: 0;
+    position: absolute;
+    top: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#f4f4fd;
+    padding: 40px 32px;
+    background-color: #4d5ae5;
 }
 
 .our-desiding-container {
