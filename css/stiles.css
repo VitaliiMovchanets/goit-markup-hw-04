@@ -306,6 +306,11 @@ background-color: #404bbf;
     transform: translateY(0%);
 }
 
+.images-class {
+    position: relative;
+    overflow: hidden;
+}
+
 .our-portfolio-title {
     font-weight: 500;
     color: #2e2f42;
