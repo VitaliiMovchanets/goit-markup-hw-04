@@ -345,6 +345,16 @@ background-color: #404bbf;
     padding: 100px 0;
 }
 
+.container-footer {
+    display: flex;
+    align-items: baseline;
+
+}
+
+.footer-link {
+    
+}
+
 .footer-text {
     line-height: 1.5;
     color: #F4F4FD;
