@@ -340,6 +340,10 @@ background-color: #404bbf;
     border-top: none;
 }
 
+.footer-conteiner {
+    margin-right: 120px;
+}
+
 .footer-stiles {
     background-color: #2e2f42;
     padding: 100px 0;
