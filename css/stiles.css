@@ -344,6 +344,11 @@ background-color: #404bbf;
     margin-right: 120px;
 }
 
+.footer-links-title {
+    font-weight: 500;
+    
+}
+
 .footer-stiles {
     background-color: #2e2f42;
     padding: 100px 0;
