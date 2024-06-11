@@ -345,10 +345,16 @@ background-color: #404bbf;
     padding: 100px 0;
 }
 
-.container-footer {
+.container {
     display: flex;
     align-items: baseline;
 
+}
+
+.footer-conteiner {
+    display: flex;
+    align-items: baseline;
+    
 }
 
 .footer-link {
