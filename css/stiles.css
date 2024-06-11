@@ -364,6 +364,11 @@ background-color: #404bbf;
     margin-bottom: 16px;
 }
 
+.footer-social {
+    align-items: baseline;
+    display: flex;
+}
+
 .footer-text {
     line-height: 1.5;
     color: #F4F4FD;
