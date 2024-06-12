@@ -313,6 +313,9 @@ background-color: #404bbf;
     transform: translateY(0%);
 }
 
+.our-portfolio-list-li:hover .images-text {
+    transform: translateY(0%);
+}
 
 .our-portfolio-list-li {
     width: calc((100% - 48px) / 3);
