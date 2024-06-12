@@ -296,6 +296,15 @@ background-color: #404bbf;
   
 }
 
+.our-portfolio-title {
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
 .images-text {
     position: absolute;
     top: 0;
@@ -451,7 +460,6 @@ font-weight: 500;
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    display: flex;
     align-items: baseline;
  }
 
