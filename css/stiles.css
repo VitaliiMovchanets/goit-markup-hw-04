@@ -374,6 +374,13 @@ background-color: #404bbf;
     border: 1px solid #e7e9fc;
     border-top: none;
 }
+.container-footer-general {
+    width: 1158px;
+        margin: 0 auto;
+        padding: 0 15px;
+        align-items: baseline;
+        display: flex;
+}
 
 .footer-container {
     margin-right: 120px;
